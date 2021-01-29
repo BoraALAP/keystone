@@ -1,5 +1,15 @@
 # @keystone-next/app-basic
 
+## 0.0.15
+
+### Patch Changes
+
+- Updated dependencies [[`2ed7ee700`](https://github.com/keystonejs/keystone/commit/2ed7ee70047c4c2bb6b855ec51a2fa58e4c7474d), [`858eedb18`](https://github.com/keystonejs/keystone/commit/858eedb18c14ed017b01f588071192cdac355c47)]:
+  - @keystone-next/document-renderer@1.0.0
+  - @keystone-next/fields-document@1.0.0
+  - @keystone-ui/tooltip@1.0.6
+  - @keystone-next/keystone@9.1.1
+
 ## 0.0.14
 
 ### Patch Changes
